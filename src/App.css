@@ -1,0 +1,20 @@
+.headerTop {
+  height: 30px;
+  font-size: 13px;
+}
+.headerTop a {
+  text-decoration: none;
+  color: #000;
+  cursor: pointer;
+}
+.headerTop .dropdown-toggle {
+  font-size: 13px;
+}
+
+.headerTop .seperator {
+  color: #ccc;
+}
+.card-img-top{
+  height: 350px;
+}
+
