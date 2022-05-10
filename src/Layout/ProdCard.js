@@ -59,6 +59,7 @@ function ProdCard(){
                     <p>More Info Here on Image</p>
                   </Carousel.Caption>
                 </Carousel.Item>
+                
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
